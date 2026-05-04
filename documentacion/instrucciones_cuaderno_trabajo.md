@@ -12,22 +12,22 @@ La plantilla aparecerá automáticamente al crear un nuevo Issue.
 📝 Cómo rellenar el cuaderno cada día   
 Al final de cada jornada de trabajo, el secretario del equipo (o quien tenga el rol ese día) debe:
 
-Ir al repositorio del equipo en GitHub   
-Hacer clic en la pestaña Issues    
-Pulsar el botón verde New issue    
-Seleccionar la plantilla "Cuaderno de trabajo"    
-Cambiar la fecha en el título: 📓 Sesión – 28/04/2026    
-Rellenar cada sección con la información del día    
-En Assignees (columna derecha), asignar el issue a todos los miembros del equipo    
-Pulsar Submit new issue    
+- Ir al repositorio del equipo en GitHub   
+- Hacer clic en la pestaña Issues    
+- Pulsar el botón verde New issue    
+- Seleccionar la plantilla "Cuaderno de trabajo"    
+- Cambiar la fecha en el título: 📓 Sesión – 28/04/2026    
+- Rellenar cada sección con la información del día    
+- En Assignees (columna derecha), asignar el issue a todos los miembros del equipo    
+- Pulsar Submit new issue    
 ⚠️ Importante: el issue debe crearse el mismo día de la jornada, no al día siguiente.    
 
 🔍 Cómo consultar el cuaderno
 Para ver todas las entradas del cuaderno de trabajo del equipo:
 
-Ir a la pestaña Issues del repositorio
-En el buscador, filtrar por etiqueta: label:cuaderno-trabajo
-Aparecerán todas las sesiones ordenadas cronológicamente
+- Ir a la pestaña Issues del repositorio
+- En el buscador, filtrar por etiqueta: label:cuaderno-trabajo
+- Aparecerán todas las sesiones ordenadas cronológicamente
 📌 Ejemplo de entrada bien rellenada
 Título: 📓 Sesión – 28/04/2026
 
@@ -67,12 +67,12 @@ Título: 📓 Sesión – 28/04/2026
 📂 Dónde colocar el fichero en el repositorio
 La estructura del repositorio debe incluir la carpeta .github:
 
-mi-repositorio/
-├── .github/
-│   └── ISSUE_TEMPLATE/
-│       └── cuaderno_trabajo.md   ← este fichero
-├── src/
-├── docs/
-├── README.md
-└── LICENSE
+mi-repositorio/   
+├── .github/   
+│   └── ISSUE_TEMPLATE/   
+│       └── cuaderno_trabajo.md   ← este fichero   
+├── src/   
+├── docs/   
+├── README.md    
+└── LICENSE    
 💡 La carpeta .github puede que no sea visible en el explorador de archivos del sistema porque empieza por punto. En GitHub sí aparece con normalidad.
