@@ -2,7 +2,7 @@
 El cuaderno de trabajo se gestiona mediante Issues de GitHub.    
 Cada jornada de trabajo se registra creando un Issue nuevo usando la plantilla "Cuaderno de trabajo".
 
-🛠️ Configuración inicial del repositorio (una sola vez)
+🛠️ Configuración inicial del repositorio (una sola vez)    
 El fichero de plantilla ya está incluido en el repositorio en la ruta:
 
 .github/ISSUE_TEMPLATE/cuaderno_trabajo.md
