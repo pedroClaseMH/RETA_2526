@@ -1,4 +1,4 @@
-📓 Cómo usar el Cuaderno de Trabajo en GitHub   
+# 📓 Cómo usar el Cuaderno de Trabajo en GitHub   
 El cuaderno de trabajo se gestiona mediante Issues de GitHub.    
 Cada jornada de trabajo se registra creando un Issue nuevo usando la plantilla "Cuaderno de trabajo".
 
