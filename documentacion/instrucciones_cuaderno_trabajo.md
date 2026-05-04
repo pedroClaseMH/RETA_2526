@@ -61,11 +61,10 @@ Título: 📓 Sesión – 28/04/2026
 - ⏳ RETRASADA: documentación de EC2-1 en guía (pasa a mañana, David).
 
 ## 💬 Aspectos que mejorar y otras observaciones
-- Tenemos que revisar mejor la documentación de AWS antes de empezar
-  para no perder tiempo con la configuración de Security Groups.
+- Tenemos que revisar mejor la documentación de AWS antes de empezar para no perder tiempo con la configuración de Security Groups.
 - El trabajo en equipo ha funcionado bien hoy.   
-📂 Dónde colocar el fichero en el repositorio     
-La estructura del repositorio debe incluir la carpeta .github:   
+- 📂 Dónde colocar el fichero en el repositorio     
+- La estructura del repositorio debe incluir la carpeta .github:   
 
 mi-repositorio/   
 ├── .github/   
