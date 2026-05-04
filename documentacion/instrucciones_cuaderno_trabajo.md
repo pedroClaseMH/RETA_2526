@@ -6,8 +6,8 @@ Cada jornada de trabajo se registra creando un Issue nuevo usando la plantilla "
 El fichero de plantilla ya está incluido en el repositorio en la ruta:
 
 .github/ISSUE_TEMPLATE/cuaderno_trabajo.md    
-No es necesario hacer nada más.    
-La plantilla aparecerá automáticamente al crear un nuevo Issue.
+- No es necesario hacer nada más.    
+- La plantilla aparecerá automáticamente al crear un nuevo Issue.
 
 📝 Cómo rellenar el cuaderno cada día   
 Al final de cada jornada de trabajo, el secretario del equipo (o quien tenga el rol ese día) debe:
